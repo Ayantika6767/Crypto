@@ -1,0 +1,43 @@
+body{
+    background-image: url('https://content.fortune.com/wp-content/uploads/2022/01/Crypto1.jpg?resize=1200,600');
+}
+.title{
+    position: absolute;
+    padding: 10px 500px;
+    
+}
+#t1{
+    color: azure;
+   
+}
+#t2{
+    padding-left: 30px;
+    color: aqua;
+}
+
+.form{
+    position: absolute;
+    padding: 150px 500px;
+}
+
+#btn{
+    color: rgb(241, 241, 249);
+    background-color: rgb(59, 17, 225);
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+#name{
+    border-radius: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+
